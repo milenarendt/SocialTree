@@ -5,10 +5,12 @@ A personal responsive project to practice web development.
 
 <br/>
 ## Technologies
+
 - HTML;
 - CSS;
 - Git.
 
+<br/>
 <br/>
 ## Project images
 
