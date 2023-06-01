@@ -21,4 +21,4 @@ A personal responsive project to practice web development.
 
 
 <br/>
-<p align="center"> feito com 💖 por <a href="https://github.com/milenarendt" target="_blank">@milenarendt</a></p>
+<p align="center"> made with 💖 by <a href="https://github.com/milenarendt" target="_blank">@milenarendt</a></p>
